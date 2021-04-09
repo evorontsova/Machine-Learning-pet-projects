@@ -7,3 +7,6 @@ Find the answer in the file Emotions2.ipynb. (project 2018)
 Is ML solution is the best or not? Find the answer in the file Vorontsova_solution.ipynb (project 2020)
 
 3. Car optimization challenge. Goal: minimize the energy consumption. File Car Dataset Analysis.ipynb. (project 2021)
+
+4. Image recognition. Kaggle assignment for Deep Learning School (Moscow, 2018). File my_simpsons_baseline.ipynb
+
